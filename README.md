@@ -5,8 +5,8 @@ Analyzed Zomato’s restaurant data to uncover trends and opportunities for expa
 🛠 Tech Stack:
 
 Microsoft Excel (for data extraction, cleaning, and transformation)
-Advanced Formulas: INDEX/MATCH, COUNTIFS, SUMIFS, IFs, PivotTable
-Visualization: Built charts and graphs to highlight key trends
+Advanced Formulas: VLOOKUP, XLOOKUP, INDEX/MATCH, COUNTIFS, SUMIFS, IFs, PivotTable, SLICERS
+Visualization(Dashboard): Built charts and graphs to highlight key trends 
 
 🚀 Impact:
 
